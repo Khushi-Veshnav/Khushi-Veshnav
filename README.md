@@ -1,57 +1,95 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6Znd6am50ZzZ0Z3Z6Znd6am50ZzZ0Z3Z6Znd6am50ZzZ0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHUR4lyFe/giphy.gif" width="35"> Hello! I'm Khushi Sharma
+<div align="center">
+  <img src="PASTE_YOUR_LINK_HERE" width="100%" />
 
-<p align="left">
-<img src="https://img.shields.io/badge/B.Tech-Data%20Science-00D2FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Focus-AI--ML%20%26%20MLOps-7000FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Status-Seeking%20Opportunities-green?style=flat-square" />
+  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Hello,+I'm+Khushi+Sharma;Data+Science+Architect;MLOps+Enthusiast;Turning+Data+into+Action" alt="Typing SVG" /></h1>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-Data%20Science%20(3rd%20Year)-00D2FF?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seeking-Internships-green?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-India-FF4B4B?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
-> **3rd Year B.Tech Student** specializing in turning complex data into production-ready intelligence. I focus on the intersection of deep learning and scalable automation.
+---
+
+### ⚡ Quick Profile Overview
+<p align="left">
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRraXp4emV4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4eGZ4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- 🧠 **Currently Architecting:** Scalable Deep Learning models & MLOps pipelines.
+- 📚 **Learning Path:** Advanced Transformers & Distributed Systems.
+- 🛠️ **Favorite Stack:** Python + TensorFlow + GitHub Actions.
+- 🎯 **Mission:** Bridging the gap between raw data research and production-grade software.
+</p>
 
 ---
 
-### 🛠️ The Tech Stack
-
-| Domain | Tools |
-| :--- | :--- |
-| **Core** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **ML/DL** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![Scikit_Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **Viz & Apps** | ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
-| **Scraping** | ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4EAA25?style=for-the-badge) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) |
-
----
-
-### 🚀 Featured Machine Learning Projects
+### 🛠️ The Technical Ecosystem
 
 <div align="center">
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[NMT Tool](https://github.com/Khushi-Veshnav)** | Neural Machine Translation using Transformers for EN/ES/FR. | `Keras` `NLP` |
-| **[Pawzz Directory](https://github.com/Khushi-Veshnav)** | Verified welfare directory with structured data architecture. | `Data Ops` `Python` |
-| **[Scraping Engine](https://github.com/Khushi-Veshnav)** | High-scale extraction pipeline with proxy rotation. | `Automation` `BS4` |
+| Core Languages | AI & Machine Learning | Data & Visualization |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=py,cpp,c,mysql" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" /> | <img src="https://skillicons.dev/icons?i=pandas,matplot,powerbi" /> |
+
+| Web & Scraping | MLOps & DevTools | Deployments |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=selenium,html,css" /> | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker" /> | <img src="https://skillicons.dev/icons?i=netlify,vercel,streamlit" /> |
 
 </div>
 
 ---
 
-### 📊 Vital Signs
+### 🚀 High-Impact Showcases
+
+<div align="center">
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/Khushi-Veshnav">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khushi-Veshnav&repo=Translation_Tool&theme=tokyonight&border_radius=10" alt="NMT Project" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Khushi-Veshnav">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khushi-Veshnav&repo=Web_Scraping_Engine&theme=tokyonight&border_radius=10" alt="Scraping Project" />
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+### 📊 Engineering Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Khushi-Veshnav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Veshnav&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushi-Veshnav&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Veshnav&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khushi-Veshnav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="97%" />
 </p>
 
 ---
 
-### 🔗 Connect With Me
+### 🐍 Contribution Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khushi-Veshnav/Khushi-Veshnav/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khushi-Veshnav/Khushi-Veshnav/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Khushi-Veshnav/Khushi-Veshnav/output/github-contribution-grid-snake.svg">
+</picture>
 
+---
+
+### 📬 Connect & Collaborate
 <p align="center">
   <a href="https://www.linkedin.com/in/khushi-sharma-7ab1a931b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://khushi63.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Khushi-Veshnav&color=00d2ff&style=flat-square&label=PROFILE+VIEWS" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Khushi-Veshnav&color=00d2ff&style=flat-square&label=VIRTUAL+VISITORS" />
 </p>
