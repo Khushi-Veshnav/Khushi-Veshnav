@@ -32,7 +32,7 @@
 
 <p align="center">
   <strong>Data & Visualization</strong><br>
-  <img src="https://skillicons.dev/icons?i=pandas,matplot,powerbi,streamlit" />
+  <img src="https://skillicons.dev/icons?i=pandas,matplotlib,powerbi,streamlit" />
 </p>
 
 <p align="center">
