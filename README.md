@@ -29,11 +29,14 @@
   <strong>AI & Machine Learning</strong><br>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
-
 <p align="center">
   <strong>Data & Visualization</strong><br>
-  <img src="https://skillicons.dev/icons?i=pandas,matplotlib,powerbi,streamlit" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
+
 
 <p align="center">
   <strong>Automation & Scraping</strong><br>
