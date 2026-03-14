@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="PASTE_YOUR_LINK_HERE" width="100%" />
+<img src="https://github.com/Khushi-Veshnav/Khushi-Veshnav/blob/main/Gemini_Generated_Image_qvkmjbqvkmjbqvkm.png" width="100%" />
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Hello,+I'm+Khushi+Sharma;Data+Science+Architect;MLOps+Enthusiast" alt="Typing SVG" />
 
