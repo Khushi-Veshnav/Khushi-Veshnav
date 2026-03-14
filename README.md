@@ -30,8 +30,13 @@
 </p>
 
 <p align="center">
-  <strong>Data, Viz & Automation</strong><br>
-  <img src="https://skillicons.dev/icons?i=pandas,matplot,powerbi,streamlit,selenium" />
+  <strong>Data & Visualization</strong><br>
+  <img src="https://skillicons.dev/icons?i=pandas,matplot,powerbi,streamlit" />
+</p>
+
+<p align="center">
+  <strong>Automation & Scraping</strong><br>
+  <img src="https://skillicons.dev/icons?i=selenium,beautifulsoup" />
 </p>
 
 <p align="center">
