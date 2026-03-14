@@ -18,6 +18,7 @@
 ---
 
 ### 🛠️ The Technical Ecosystem
+### 🛠️ The Technical Ecosystem
 
 <p align="center">
   <strong>Core Languages</strong><br>
@@ -36,7 +37,7 @@
 
 <p align="center">
   <strong>Automation & Scraping</strong><br>
-  <img src="https://skillicons.dev/icons?i=selenium,beautifulsoup" />
+  <img src="https://skillicons.dev/icons?i=selenium,html,css" />
 </p>
 
 <p align="center">
