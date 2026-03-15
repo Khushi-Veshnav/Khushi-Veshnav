@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ The Technical Ecosystem
+
 ### 🛠️ The Technical Ecosystem
 
 <p align="center">
