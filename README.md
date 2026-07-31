@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:1F4E79&height=200&section=header&text=Khushi%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%26%20Machine%20Learning&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=180&section=header&text=Khushi%20Sharma&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Data%20Science%20%26%20Machine%20Learning&descAlignY=65&descSize=16" width="100%" />
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Khushi+Sharma;Data+Science+%26+ML+Enthusiast;Turning+Data+Into+Decisions" alt="Typing SVG" />
 
